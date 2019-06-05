@@ -1,3 +1,11 @@
+## [Flutter Budapest - Meetup #2](https://www.meetup.com/Flutter-Budapest/events/261542018/)
+
+Talk #1: Live coding a Flutter app.
+
+*This repository contains all the code written on the meetup.*
+
+---
+
 # fruits
 
 A new Flutter project.
